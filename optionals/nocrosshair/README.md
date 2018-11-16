@@ -1,7 +1,7 @@
 ace_nocrosshair
 ===========
 
-Removes weapon crosshair.
+Removes weapon crosshair. It ACE to play even on easy difficulty setting at server side, without crosshair.
 
 
 ## Maintainers
